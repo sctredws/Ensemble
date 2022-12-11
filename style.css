@@ -160,7 +160,7 @@ body, html {
     text-decoration: none;
 }
 
-.shop a {
+.shop > a {
     text-decoration: none;
     color:#fbfaf9;
 }
